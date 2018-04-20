@@ -1,0 +1,40 @@
+body {
+  background-color: lightgrey;
+}
+header#info {
+  border: 1px solid black;
+  margin-left: 25%;
+  width: 50%;
+}
+header#info img{
+  width: 100%;
+}
+div#images {
+  border: 1px solid black;
+}
+img {
+   height: 150px;
+   width: 150px;
+   margin: 25px;
+}
+div.contenedor * {
+  display: inline-block;
+
+}
+div.contenedor p {
+  border: 1px solid black;
+  height: 270px;
+  width: 215px;
+}
+
+p#izq {
+font-family: 'Gugi', cursive;
+font-size: small;
+}
+ul{
+  text-align: center;
+}
+ul li {
+   display: inline-block;
+   margin: 0 15px;
+}
